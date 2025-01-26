@@ -9,7 +9,8 @@
 1. Judul Percobaan : Pembuatan dan Pengujian Kabel Straight dan Crossover Menggunakan Kabel UTP
 
 2. Hasil Percobaan
-
+    
+![Image](https://github.com/user-attachments/assets/1f315117-5e97-4a74-8a30-077aa1392504)
 
 
 ***KABEL STRAIGHT***
