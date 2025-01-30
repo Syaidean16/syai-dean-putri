@@ -38,6 +38,9 @@ LAN tester (untuk memastikan koneksi berhasil).
       Hijau
       Cokelat putih
       Cokelat
+
+  ![image](https://github.com/user-attachments/assets/955449f9-a4a9-4fcc-bbdc-9eb49b0693f1)
+
 -    Potong kabel agar rata, Pastikan semua kabel memiliki panjang yang sama menggunakan crimping tool.
 -    kalau sudah benar Masukkan kabel yang telah diurutkan ke dalam konektor RJ-45 hingga setiap kabel menyentuh pin logam di dalam konektor,
      Pastikan urutannya tetap sesuai dan konektor terpasang dengan benar. lalu Gunakan crimping tool untuk menjepit konektor RJ-45 hingga kabel terkunci dengan baik.
